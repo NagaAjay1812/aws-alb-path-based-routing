@@ -1,5 +1,9 @@
 # AWS Application Load Balancer – Path Based Routing with HTTPS
 
+## 🏗️ Architecture Diagram
+
+![ALB Path-Based Routing Architecture](architecture/alb-architecture.png)
+
 ## Overview
 This project demonstrates how to build a scalable and secure web architecture using an **Application Load Balancer (ALB)** with **path-based routing**, **multiple target groups**, **HTTPS using ACM**, and **Route 53 DNS routing**.
 
@@ -61,3 +65,5 @@ Shows	/shows/*	/shows/	Subnet 1C
 
 
 Designed an ALB-based architecture with HTTPS and path-based routing to multiple backend services using target groups, Route 53, and ACM.
+
+
