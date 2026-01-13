@@ -2,7 +2,8 @@
 
 ## 🏗️ Architecture Diagram
 
-ALB architecture.png
+![Architecture Diagram](aws-alb-path-based-routing/ALB architecture.png)
+
 
 ## Overview
 This project demonstrates how to build a scalable and secure web architecture using an **Application Load Balancer (ALB)** with **path-based routing**, **multiple target groups**, **HTTPS using ACM**, and **Route 53 DNS routing**.
