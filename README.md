@@ -2,7 +2,7 @@
 
 ## 🏗️ Architecture Diagram
 
-![Architecture Diagram](aws-alb-path-based-routing/ALB_architecture.png)
+![Architecture Diagram] (aws-alb-path-based-routing/ALB-architecture.png)
 
 
 ## Overview
